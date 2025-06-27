@@ -14,9 +14,9 @@ We foster an **open, welcoming environment**—regardless of background, age, ge
 
 ## 👥 Who We Are
 
-| Name | Title | Company | Role | City |
-| ---- | ----- | ------- | ---- | ---- |
-| [Mauro Morales](http://github.com/mauromorales) | Staff Engineer | Spectro Cloud | Founding Member | Ghent |
+| Name | Role | City |
+| ---- | ---- | ---- |
+| [Mauro Morales](http://github.com/mauromorales) | Founding Member | Ghent |
 
 We’ve been organizing the [CNCF Cloud Native Brussles](https://community.cncf.io/cloud-native-brussels/) and we see this space as the foundation for future growth.
 

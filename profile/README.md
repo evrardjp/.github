@@ -22,6 +22,15 @@ We foster an **open, welcoming environment**—regardless of background, age, ge
 
 We’ve been organizing the [CNCF Cloud Native Brussles](https://community.cncf.io/cloud-native-brussels/) and we see this space as the foundation for future growth.
 
+## Meetup community
+
+As the Cloud Native ecosystem continues to grow, multiple meetup groups have emerged across Belgium, each organizing local events and initiatives.
+
+To reduce confusion and create synergies, we collaborate across these groups and centralize shared resources, communication, and community efforts under Cloud Native Belgium.
+
+You can find more information about the meetup community here:  
+👉 https://github.com/CloudNativeBelgium/meetup
+
 ## 📣 We are looking for:
 
 - 🗣 **Speakers** - Share your knowledge or practice your first talk in a welcoming community.

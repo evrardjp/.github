@@ -24,7 +24,7 @@ We organize two kinds of events:
 
 ## Contribute
 
-If you wish to help organise the official meetup, it's all happening in the [cncf-events repo](https://github.com/CloudNativeBelgium/events).
+If you wish to help organise the official meetup, it's all happening in the [cncf-events repo](https://github.com/CloudNativeBelgium/cncf-events).
 If you wish to help organise on the meetup.com group, please have a look at [the meetup.com-events repo](https://github.com/CloudNativeBelgium/meetup.com-events)
 
 ## 👥 Who We Are
